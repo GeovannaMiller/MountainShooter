@@ -1,0 +1,2 @@
+WIN_WIDTH =
+WIN_HEIGHT =
