@@ -1,0 +1,2 @@
+def const():
+    return None
